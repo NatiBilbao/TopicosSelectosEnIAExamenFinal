@@ -1,7 +1,11 @@
 # Sistema de Reconocimiento Facial para Inicio de Sesión - Proyecto para Tópicos Selectos en Inteligencia Artificial
+
 Natalia Bilbao Cano
+
 Código: 40987
+
 Ingeniería de Sistemas Computacionales
+
 8vo Semestre
 
 ## Descripción del Proyecto
